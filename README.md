@@ -78,7 +78,8 @@ after a successful mine of the pending transactions, all the transactions will b
 
 
 
-##Client Class
+## Client Class
+
 Use the code fraction bellow to implement this class. **note.** you may need to add some keywords to these functions if necessary. you are not allowed to change the functions or add other functions in this class.
 ```cpp
 class Client
